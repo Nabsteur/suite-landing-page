@@ -66,6 +66,7 @@ body {
     color: var(--body-font-color);
     margin: 0;
     padding: 0;
+    background-color: #FAF8F6;
 }
 h1 {
     font-size: var(--heading-mobile-font-size);
