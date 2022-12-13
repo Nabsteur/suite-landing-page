@@ -135,7 +135,7 @@ header {
     color: #fff;
 }
 .img-hero-container {
-    background-image: url('/assets/image-hero-landscape.png');
+    background-image: url('assets/image-hero-landscape.png');
     background-repeat: no-repeat;
     background-position: center ;
     height: 240px;
@@ -333,8 +333,6 @@ footer img {
             overflow-x: hidden;
             overflow-y: hidden;
             position: relative;
-            max-width: 1440px;
-            margin: auto;
         }
         h1 {
             font-size: var(--heading-xl-font-size);
@@ -345,9 +343,6 @@ footer img {
             font-size: var(--body-font-size);
             line-height: var(--body-line-height);
             letter-spacing: var(--body-letter-spacing);
-        }
-        header {
-            width: 100% !important;
         }
         .title-container {
             width: 60%;
