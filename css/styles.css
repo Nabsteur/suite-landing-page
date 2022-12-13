@@ -135,7 +135,7 @@ header {
     color: #fff;
 }
 .img-hero-container {
-    background-image: url(assets/image-hero-landscape.png);
+    background-image: url(../assets/image-hero-landscape.png);
     background-repeat: no-repeat;
     background-position: center ;
     height: 240px;
@@ -266,7 +266,7 @@ footer img {
         top: 20px
     }
     .img-hero-container {
-        background-image: url(./assets/image-hero-portrait.png);
+        background-image: url(../assets/image-hero-portrait.png);
         background-repeat: no-repeat;
         width: 281px;
         height: 482px;
@@ -358,7 +358,7 @@ footer img {
             left: 290px;
         }
         .img-hero-container {
-            background-image: url("/assets/image-hero-portrait.png");
+            background-image: url(../assets/image-hero-portrait.png);
             width: 350px;
             height: 600px;
             right: 450px;
